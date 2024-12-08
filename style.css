@@ -1,0 +1,93 @@
+html {
+    background: url(WebsiteDesignSystemStars.jpeg) no-repeat center fixed;
+    background-color: black;
+}
+
+#Heading {
+    color: white;
+    background-color: #38518c;
+    text-align: center;
+    border-style: solid;
+    border: 2px, white;
+    border-radius: 30px;
+}
+
+#ColorScheme {
+display:flexbox;
+}
+#ColorScheme h2 {
+color: white;
+text-align: center;
+}
+
+#Gradient {
+    background: linear-gradient(to right, #f32170, #ff6b08,#cf23cf, #eedd44);
+    text-align: center;
+    border-radius: 30px;
+    border: white;
+    border-style: solid;
+    color: white;
+}
+#Purple {
+    background:#cf23cf;
+    text-align: center;
+    border-radius: 30px;
+    border: white;
+    border-style: solid;
+    color: white;
+}
+#Pink {
+    background: #f32170;
+    text-align: center;
+    border-radius: 30px;
+    border: white;
+    border-style: solid;
+    color: white;
+}
+#Yellow {
+    background: #eedd44;
+    text-align: center;
+    border-radius: 30px;
+    border: white;
+    border-style: solid;
+    color: white;
+}
+#Orange {
+    background: #ff6b08;
+    text-align: center;
+    border-radius: 30px;
+    border: white;
+    border-style: solid;
+    color: white;
+}
+
+#ColorScheme {
+    background-color: black;
+}
+
+#TextFonts {
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+
+}
+
+#Arial {
+    font-family: Arial;
+    color: white;
+}
+
+#TimesNewRoman {
+    font-family: 'Times New Roman';
+    color: white;
+}
+
+#sans-serif {
+    font-family: sans-serif;
+    color: white;
+}
+
